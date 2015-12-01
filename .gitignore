@@ -1,0 +1,8 @@
+bin
+/cache
+/cache.old
+/clientcache
+/out
+pkg
+/projectFilesBackup
+/.idea/workspace.xml

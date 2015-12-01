@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../RS2D/RS317/RS317.iml" filepath="$PROJECT_DIR$/../RS2D/RS317/RS317.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gors2d.iml" filepath="$PROJECT_DIR$/gors2d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rsakeygen/rsakeygen.iml" filepath="$PROJECT_DIR$/rsakeygen/rsakeygen.iml" />
+    </modules>
+  </component>
+</project>
